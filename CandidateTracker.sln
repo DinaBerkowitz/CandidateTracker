@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTracker.Web", "CandidateTracker.Web\CandidateTracker.Web.csproj", "{304DD741-2E1B-444B-B6E5-D2B9DF9FE075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTracker.Data", "CandidateTracker.Data\CandidateTracker.Data.csproj", "{028ACE2A-E56B-4E2D-A28B-68F34DD3D31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{304DD741-2E1B-444B-B6E5-D2B9DF9FE075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304DD741-2E1B-444B-B6E5-D2B9DF9FE075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304DD741-2E1B-444B-B6E5-D2B9DF9FE075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304DD741-2E1B-444B-B6E5-D2B9DF9FE075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028ACE2A-E56B-4E2D-A28B-68F34DD3D31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028ACE2A-E56B-4E2D-A28B-68F34DD3D31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028ACE2A-E56B-4E2D-A28B-68F34DD3D31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028ACE2A-E56B-4E2D-A28B-68F34DD3D31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
